@@ -64,10 +64,9 @@
 <div class="column-left">
   <p align='center'>
     <h4>🌱 I'm currently learning...</h4>
-    <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Docker-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Docker-%231572B6.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white&color=orange" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/raspberry%20pi-%231572B6.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=white&color=red" />&nbsp;&nbsp;&nbsp;
   </p>
 </div>
 
@@ -91,7 +90,6 @@
 
 <br>
 <p align="right">
-    <a href="https://open.spotify.com/playlist/2w8GYqYdH6ve3g0nGcJcgE?si=7bCl8yynR2Saz4VPR6mDXQ"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="steamcommunity.com/id/SteVasc/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <h5 align="right">🎮 To have fun and spend time...</h5>
+    <a href="https://open.spotify.com/playlist/37i9dQZF1E383MbqoK7unK?si=j6fj9ERnSXimYDZM3qWHtg"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <h5 align="right">:facepunch: Before software can be reusable it first has to be usable....</h5>
 </p>

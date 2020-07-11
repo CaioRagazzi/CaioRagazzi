@@ -33,7 +33,6 @@
   <p align='center'>
     <h5> Frontend</h5>
     <img src="https://img.shields.io/badge/Angular5%20-%23e34f26.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/.Net%20Core%20-%231572B6.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </p>
 
 </div>
@@ -41,10 +40,8 @@
 <div class="column-right">
 
   <p align='center'>
-    <h5>Educational Projects</h5>
-    <img src="https://img.shields.io/badge/scratch%20-%234d97ff.svg?&style=for-the-badge&logo=scratch&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/inkscape%20-%23000000.svg?&style=for-the-badge&logo=inkscape&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/arduino%20-%2300979d.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <h5>Backend</h5>
+    <img src="https://img.shields.io/badge/.Net%20Core%20-%231572B6.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </p>
 </div>
 

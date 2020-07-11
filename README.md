@@ -33,6 +33,7 @@
   <p align='center'>
     <h5> Frontend</h5>
     <img src="https://img.shields.io/badge/Angular5%20-%23e34f26.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/VueJs%20-%23e34f26.svg?&style=for-the-badge&logo=vue.js&color=green&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </p>
 
 </div>
@@ -42,6 +43,14 @@
   <p align='center'>
     <h5>Backend</h5>
     <img src="https://img.shields.io/badge/.Net%20Core%20-%231572B6.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  </p>
+</div>
+
+<div class="column-right">
+
+  <p align='center'>
+    <h5>Mobile</h5>
+    <img src="https://img.shields.io/badge/React%20Native-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </p>
 </div>
 

@@ -32,8 +32,8 @@
 
   <p align='center'>
     <h5> Frontend</h5>
-    <img src="https://img.shields.io/badge/Angular5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/.Net Core3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Angular5%20-%23e34f26.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/.Net%20Core%20-%231572B6.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </p>
 
 </div>
@@ -89,21 +89,3 @@
     <a href="steamcommunity.com/id/SteVasc/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <h5 align="right">🎮 To have fun and spend time...</h5>
 </p>
-
-
-
-
-<!--
-**CaioRagazzi/CaioRagazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

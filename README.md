@@ -51,7 +51,7 @@
 
   <p align='center'>
     <h5>Mobile</h5>
-    <img src="https://img.shields.io/badge/react-native%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/react native%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </p>
 </div>
 

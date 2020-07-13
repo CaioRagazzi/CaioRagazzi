@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Caio :smiley: 💻 </h1>
 
 <p align='center'>
-  I live on São Paulo, Brazil and work at <b>Orbium Ltda</b> 
+  I live in São Paulo, Brazil and work at <b>Orbium Ltda</b> 
 </p>
 
 

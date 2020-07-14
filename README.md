@@ -17,20 +17,17 @@
 
 <h5 id="headers" > 🔭 I’m currently working with ...</h5>
 
-<div id="row1">
+<div>
 
 <div class="column-left">
-
   <p align='center'>
     <h5> Frontend</h5>
     <img src="https://img.shields.io/badge/Angular5%20-%23e34f26.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/VueJs%20-%23e34f26.svg?&style=for-the-badge&logo=vue.js&color=green&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </p>
-
 </div>
 
 <div class="column-right">
-
   <p align='center'>
     <h5>Backend</h5>
     <img src="https://img.shields.io/badge/.Net%20Core%20-%231572B6.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -39,19 +36,16 @@
 </div>
 
 <div class="column-right">
-
   <p align='center'>
     <h5>Mobile</h5>
     <img src="https://img.shields.io/badge/react native%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </p>
 </div>
-
 </div>
 
 <hr>
 
 <div id="row2">
-
 <div class="column-left">
   <p align='center'>
     <h4>🌱 I'm currently learning...</h4>
@@ -63,19 +57,16 @@
 
 
 <div align="left" >
-
   <p align='right'>
     <h4>💬 Sometimes I like to read things here...</h4>
     <a href="https://dev.to"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   </p>
-  
 </div>
 
 <hr>
 
 </div>
-
 <br>
 <p align="right">
     <a href="https://open.spotify.com/playlist/37i9dQZF1E383MbqoK7unK?si=j6fj9ERnSXimYDZM3qWHtg"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;

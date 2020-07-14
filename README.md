@@ -1,7 +1,7 @@
 <h2 align='center'> Greetings 👋 :smile:</h2>
 
 <p align='center'>
-  My name is Caio and I'm currently living in São Paulo, Brazil and work at <b>Orbium Ltda</b> 
+  My name is Caio, I'm currently living in São Paulo, Brazil and working at <b>Orbium Ltda</b> 
 </p>
 
 <p align='center'>

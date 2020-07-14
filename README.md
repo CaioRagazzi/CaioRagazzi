@@ -23,13 +23,15 @@
 
 <div id="row1">
 
-
+<div class="column-left">
 
   <p align='center'>
-    <h5> Frontend</h5>: <img src="https://img.shields.io/badge/Angular5%20-%23e34f26.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/VueJs%20-%23e34f26.svg?&style=for-the-badge&logo=vue.js&color=green&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <h5> Frontend</h5>
+    <img src="https://img.shields.io/badge/Angular5%20-%23e34f26.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp; 
+    <img src="https://img.shields.io/badge/VueJs%20-%23e34f26.svg?&style=for-the-badge&logo=vue.js&color=green&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </p>
 
-
+</div>
 
 <div class="column-right">
 

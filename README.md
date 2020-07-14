@@ -5,10 +5,6 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=CaioRagazzi.CaioRagazzi"></a>
-</p>
-
-<p align='center'>
   <a href="https://www.linkedin.com/in/caioragazzi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ca.ragazzi@gmail.com?subject=Olá%20Caio"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -84,4 +80,8 @@
 <p align="right">
     <a href="https://open.spotify.com/playlist/37i9dQZF1E383MbqoK7unK?si=j6fj9ERnSXimYDZM3qWHtg"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <h5 align="right">:facepunch: There’s no time to stop for gas, we’re already late....</h5>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=CaioRagazzi.CaioRagazzi"></a>
 </p>

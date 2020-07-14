@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Caio :smiley: 💻 </h1>
+<h2 align='center'> Hi there 👋, I'm Caio :smiley: 💻 </h2>
 
 <p align='center'>
   I live in São Paulo, Brazil and work at <b>Orbium Ltda</b> 
@@ -19,7 +19,7 @@
 
 <p align='center'>
 
-<h4 id="headers" > 🔭 I’m currently working with ...</h4>
+<h5 id="headers" > 🔭 I’m currently working with ...</h5>
 
 <div id="row1">
 

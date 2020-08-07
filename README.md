@@ -47,7 +47,6 @@
     <h5>🌱 I'm currently learning:&nbsp;&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/Docker-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/RabbitMQ-%231572B6.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white&color=orange" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/raspberry%20pi-%231572B6.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=white&color=red" />&nbsp;&nbsp;&nbsp;
     </h5>
   </p>
 </div>

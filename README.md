@@ -63,6 +63,13 @@
 
 <hr>
 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=fytex&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fytex&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+</div>
+
+<hr>
+
 </div>
 <p align="right">
     <!--<a href="https://open.spotify.com/playlist/37i9dQZF1E383MbqoK7unK?si=j6fj9ERnSXimYDZM3qWHtg"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;--> 

@@ -70,6 +70,6 @@
 
 <hr>
 
-<div id="row2">
+<div align="left">
   <h5 align="right">:facepunch: There’s no time to stop for gas, we’re already late...</h5>
 </div>

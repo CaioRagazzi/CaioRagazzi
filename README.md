@@ -64,6 +64,3 @@
 
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=caioragazzi&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioragazzi&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
-
-<hr>
-<h5 align="right">:facepunch: There’s no time to stop for gas, we’re already late...</h5>

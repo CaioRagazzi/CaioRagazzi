@@ -1,4 +1,4 @@
-<h2 align='center'> Greetings 👋 :smile:</h2>
+<h2 align='center'> Greetings 👋:smile:</h2>
 
 <p align='center'>
   My name is Caio, I'm currently living in São Paulo, Brazil and working at <b>Safra Bank</b> 

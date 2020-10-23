@@ -53,7 +53,7 @@
 
 <div align="left" >
   <p align='right'>
-    <h5>💬 Sometimes I like to read things here:&nbsp;&nbsp;&nbsp; 
+    <h5>💬 Sometimes I like to read things here: &nbsp;&nbsp;&nbsp; 
     <a href="https://dev.to"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     </h5>

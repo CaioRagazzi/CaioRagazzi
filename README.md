@@ -37,9 +37,7 @@
     </h5>
   </p>
 </div>
-
 <hr>
-
 <div id="row2">
 <div class="column-left">
   <p align='center'>
@@ -50,7 +48,6 @@
   </p>
 </div>
 </div>
-
 <div align="left" >
   <p align='right'>
     <h5>💬 Sometimes I like to read things here: &nbsp;&nbsp;&nbsp; 

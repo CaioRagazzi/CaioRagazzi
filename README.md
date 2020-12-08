@@ -41,6 +41,7 @@
     </h5>
   </p>
 </div>
+
 </div>
 <div align="left" >
   <p align='right'>
@@ -50,6 +51,8 @@
     </h5>
   </p>
 </div>
+
 <hr>
+
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=CaioRagazzi&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRagazzi&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />

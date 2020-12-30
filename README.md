@@ -36,16 +36,6 @@
   </p>
   
 </div>
-<hr>
-<div id="row2">
-<div class="column-left">
-  <p align='center'>
-    <h5>🌱 I'm currently learning:&nbsp;&nbsp;&nbsp; 
-    <img src="https://img.shields.io/badge/Docker-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/RabbitMQ-%231572B6.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white&color=orange" />&nbsp;&nbsp;&nbsp;
-    </h5>
-  </p>
-</div>
 
 </div>
 <div align="left" >

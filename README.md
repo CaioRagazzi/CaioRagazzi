@@ -2,12 +2,10 @@
 <p align='center'>
   My name is Caio, I'm currently living in São Paulo, Brazil and working at  <b>Safra Bank</b> 
 </p>
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/caioragazzi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ca.ragazzi@gmail.com?subject=Olá%20Caio"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp
 </p>
-
 <hr>
 <div class="column-left">
   <p align='center'>
@@ -17,7 +15,6 @@
     <img src="https://img.shields.io/badge/VueJs%20-%23e34f26.svg?&style=for-the-badge&logo=vue.js&color=green&logoColor=white" />&nbsp;&nbsp;&nbsp;
     </h5>
   </p>
-  
 </div>
 <div class="column-right">
   <p align='center'>
@@ -34,9 +31,7 @@
     <img src="https://img.shields.io/badge/react native%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
     </h5>
   </p>
-  
 </div>
-
 </div>
 <div align="left" >
   <p align='right'>
@@ -46,8 +41,6 @@
     </h5>
   </p>
 </div>
-
 <hr>
-
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=CaioRagazzi&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRagazzi&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />

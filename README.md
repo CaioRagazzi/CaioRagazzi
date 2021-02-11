@@ -2,11 +2,17 @@
 <p align='center'>
   My name is Caio, I'm currently living in São Paulo, Brazil and working at  <b>Safra Bank</b> 
 </p>
+
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/caioragazzi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ca.ragazzi@gmail.com?subject=Olá%20Caio!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp
 </p>
+
+
 <hr>
+
+
 <div class="column-left">
   <p align='center'>
     <h5 id="headers" > 🔭 I’m currently working with...</h5>

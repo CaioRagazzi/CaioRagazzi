@@ -9,9 +9,10 @@
 </p>
 
 <hr>
+
 <div class="column-left">
   <p align='center'>
-    <h5 id="headers" > 🔭 I’m currently working with...</h5>
+    <h5 id="headers" > 🔭 I’m currently working with:</h5>
     <h5> Frontend:&nbsp;&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/Angular9%20-%23e34f26.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/VueJs%20-%23e34f26.svg?&style=for-the-badge&logo=vue.js&color=green&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -19,6 +20,7 @@
   </p>
   
 </div>
+
 <div class="column-right">
   <p align='center'>
     <h5>Backend:&nbsp;&nbsp;&nbsp; 

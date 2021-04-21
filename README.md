@@ -6,7 +6,9 @@
   <a href="https://www.linkedin.com/in/caioragazzi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ca.ragazzi@gmail.com?subject=Olá%20Caio!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp
 </p>
+
 <hr>
+
 <div class="column-left">
   <p align='center'>
     <h5 id="headers" > 🔭 I’m currently working with:</h5>
@@ -16,6 +18,7 @@
     </h5>
   </p>
 </div>
+
 <div class="column-right">
   <p align='center'>
     <h5>Backend:&nbsp;&nbsp;&nbsp; 
@@ -24,6 +27,7 @@
     </h5>
   </p>
 </div>
+
 <div class="column-right">
   <p align='center'>
     <h5>Mobile:&nbsp;&nbsp;&nbsp; 
@@ -31,7 +35,9 @@
     </h5>
   </p>
 </div>
+
 </div>
+
 <div align="left" >
   <p align='right'>
     <h5>💬 Sometimes I like to read things here: &nbsp;&nbsp;&nbsp; 
@@ -39,7 +45,10 @@
     <a href="https://medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     </h5>
   </p>
+  
 </div>
+
 <hr>
+
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=CaioRagazzi&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRagazzi&layout=compact&title_color=fff&text_color=fff&bg_color=151515"/>

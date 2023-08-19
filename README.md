@@ -1,6 +1,6 @@
 <h2 align='center'> Greetings 👋:smile:</h2>
 <p align='center'>
-  My name is Caio, I'm currently living in São Paulo, Brazil and working at <b>Safra Bank</b> 
+  My name is Caio, I'm currently living in Porto, Portugal, and working at <b>Natixis</b> 
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/caioragazzi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
